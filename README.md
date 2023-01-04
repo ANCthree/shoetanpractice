@@ -1,2 +1,1 @@
-# shoetanpractice
-just practicing 
+my practice readme
